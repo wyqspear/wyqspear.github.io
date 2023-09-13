@@ -9,7 +9,7 @@ layout: page
 
 Here is **Yiqiang Wu(吴益强)**.
 
-I am a senior student majoring in **Robotics Engineering**  and **Microelectronic Engineering** (Double Degrees) at Peking University,advised by [Prof. Tianyun Huang](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV]].
+I am a senior student majoring in **Robotics Engineering**  and **Microelectronic Engineering** (Double Degrees) at Peking University,advised by [Prof. Tianyun Huang]([https://www.coe.pku.edu.cn/teaching/manufacturing/10599.html]). Here is [[my CV]].
 
 <br>
 
