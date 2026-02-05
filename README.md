@@ -1,3 +1,4 @@
+## "Yiqiang" means being even stronger and more powerful.
 
 My name is **Yiqiang Wu (jerry, 吴益强)**. Here is my personal website.
 
